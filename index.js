@@ -17,9 +17,9 @@ var hastarget = false
 const GOD = 'Nxy__'
 
 const bot = mineflayer.createBot({
-    host: 'dragongens.minefort.com',
+    host: 'SERVER',
     port: '25565',
-    username: 'NxyiBot',
+    username: 'BOTNAME',
     auth: 'microsoft'
 })
 
